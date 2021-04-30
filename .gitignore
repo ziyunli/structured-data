@@ -8,3 +8,14 @@ pom.xml
 .lein-deps-sum
 .lein-failures
 .lein-plugins
+.lein-repl-history
+structured-data.iml
+.idea
+
+/clj-kondo
+**/.clj-kondo/.cache
+performance.txt
+clj-kondo*.snap
+.planck_cache
+
+.lsp
